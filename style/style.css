@@ -1,0 +1,17 @@
+#app h1{
+  text-align:center;
+  margin-top:2%;
+}
+#app .buttonDiv{
+  width:100%;
+  margin:0 auto !important;
+}
+.none{
+  display:none;
+}
+.loader-hidden {
+  display: none;
+}
+.loader-active {
+  display: block;
+}
